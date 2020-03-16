@@ -4,14 +4,14 @@
   ],
 
   "homePageAppAdObject": {
-    "appId": "",
-    "appName": "",
-    "appUrl": "",
-    "featureUrl": "",
-    "iconUrl": "",
+    "appId": "com.makeup3d.camera.photo.editor",
+    "appName": "3D Camera Photo Editor",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.makeup3d.camera.photo.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/5YYxvZnrdupBYkMMTB708dQiXNgzIa7qEzRAKrwvHJhCToesQlS1GQrtLnWw53NqEV4=w1440-h620-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/CNMOqNn2vN9T9wSXaA8VuEYh_mfxBuh3fKo-2T-Et14s538K7jdVnTDBmu6OlMkZR2A=s360-rw",
     "link": "",
-    "pubName": "",
-    "description": ""
+    "pubName": "Colorful Filter Studio",
+    "description": "3D Special Effect Photo Editor contains lot of designed frames which blends on your photo to generate a 3D Effect."
   },
 
   "showAdLabel":"false",
@@ -22,16 +22,16 @@
   "idAds": [
     {
       "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
-      "bannerFAN": "",
+      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "homePageAdType": "fan",
       "homePageAdTypeTips": "default|admob|fan|custom",
       "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
-      "interstitialFAN": "",
+      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
       "mainAdType": "admob",
       "mainAdTypeAdTypeTips": "default|admob|fan|custom",
       "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
       "nativeFAN": "1818114414906888_1818115141573482",
-      "packageName": "",
+      "packageName": "pcm_this_is_test.photo.collage.master.pro",
       "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5224354917",
       "showEditorBanner": "1",
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
