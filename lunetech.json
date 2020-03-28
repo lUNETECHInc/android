@@ -1,0 +1,52 @@
+{
+  "adByBanned": [
+    "com.packate.name.here.will.be.banned.ad"
+  ],
+
+  "homePageAppAdObject": {
+    "appId": "",
+    "appName": "",
+    "appUrl": "",
+    "featureUrl": "",
+    "iconUrl": "",
+    "link": "",
+    "pubName": "",
+    "description": ""
+  },
+  "homePageAppAdObjectHW": {
+    "appId": "",
+    "appName": "",
+    "appUrl": "",
+    "featureUrl": "",
+    "iconUrl": "",
+    "link": "",
+    "pubName": "",
+    "description""
+  },
+
+  "showAdLabel":"false",
+
+  "showEditorBanner": "1",
+  "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+
+  "idAds": [
+    {
+      "bannerAdMob": "ca-app-pub-6696432045622127/6745708615",
+      "bannerFAN": "",
+      "homePageAdType": "fan",
+      "homePageAdTypeTips": "default|admob|fan|custom",
+      "interstitialAdMob": "ca-app-pub-6696432045622127/5161164201",
+      "interstitialFAN": "",
+      "mainAdType": "admob",
+      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
+      "nativeAdMob": "ca-app-pub-6696432045622127/8912900476",
+      "nativeFAN": "",
+      "packageName": "",
+      "rewardedVideoAdMob": "ca-app-pub-6696432045622127/3660573795",
+      "showEditorBanner": "1",
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+      "unofficial": "1",
+      "unofficialTip": "0: It's normal, 1: It's unofficial"
+    }
+  ]
+}
