@@ -4,34 +4,45 @@
   ],
 
   "homePageAppAdObject": {
-    "appId": "lune.tech",
-    "appName": "Queen Maker Camera -Aesthetic Glitch Filters",
-    "appUrl": "https://play.google.com/store/apps/details?id=lune.tech",
-    "featureUrl": "https://lh3.googleusercontent.com/HgVeLl_JAUlODmWfaCfUnzsQ1bCTnwoMwTD6Yo9AlCsMU3KdFybGlpy1d3rBiO97jAY=h1850-rw",
-    "iconUrl": "https://i.postimg.cc/V6Bx84Q0/dsd.png",
+    "appId": "sweet.art.master.filter4s_nap_c_hat",
+    "appName": "Filters for Snapchat 💗",
+    "appUrl": "https://play.google.com/store/apps/details?id=sweet.art.master.filter4s_nap_c_hat",
+    "featureUrl": "https://raw.githubusercontent.com/colorfulfilterstudio/source_code_for_studio/master/swegr.png",
+    "iconUrl": "https://lh3.googleusercontent.com/B5e2HBp7CPTtJIUHrk5Et-lHj5EYHh6Fisx9SSKG0n6wRXfjc_E3buUqLMV_Io2GrQ=s360-rw",
     "link": "",
-    "pubName": "Queen Maker Camera -Aesthetic Glitch Filters",
+    "pubName": "Sweet Art Master",
     "description": "edit your photo to look cute girl with cute sticker & gltich effect"
   },
-   "showAdLabel":"false",
+  "homePageAppAdObjectHW": {
+    "appId": "com.makeup3d.camera.photo.editor",
+    "appName": "3D Camera Photo",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.makeup3d.camera.photo.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/5YYxvZnrdupBYkMMTB708dQiXNgzIa7qEzRAKrwvHJhCToesQlS1GQrtLnWw53NqEV4=w1440-h620-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/CNMOqNn2vN9T9wSXaA8VuEYh_mfxBuh3fKo-2T-Et14s538K7jdVnTDBmu6OlMkZR2A=s360-rw",
+    "link": "",
+    "pubName": "Colorful Filter Studio",
+    "description": "3D Special Effect Photo Editor contains lot of designed frames which blends on your photo to generate a 3D Effect."
+  },
+
+  "showAdLabel":"false",
 
   "showEditorBanner": "1",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
 
   "idAds": [
     {
-      "bannerAdMob": "",
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
       "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "homePageAdType": "fan",
       "homePageAdTypeTips": "default|admob|fan|custom",
-      "interstitialAdMob": "",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
       "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
       "mainAdType": "admob",
       "mainAdTypeAdTypeTips": "default|admob|fan|custom",
-      "nativeAdMob": "",
-      "nativeFAN": "",
+      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
+      "nativeFAN": "1818114414906888_1818115141573482",
       "packageName": "pcm_this_is_test.photo.collage.master.pro",
-      "rewardedVideoAdMob": "",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5224354917",
       "showEditorBanner": "1",
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
       "unofficial": "1",
